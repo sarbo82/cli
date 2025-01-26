@@ -1,3 +1,5 @@
+![https___img1 daumcdn net_thumb_R1280x0__scode=mtistory2 fname=https%3A%2F%2Fblog kakaocdn net%2Fdn%2FMLYe5%2FbtsKwt4gA1g%2F3W1k70jiJzRERGuBrLDik0%2Fimg](https://github.com/user-attachments/assets/cbd00833-2af5-4c40-a46d-a6724a8dcd86)
+![M15_C0_A1_P30](https://github.com/user-attachments/assets/bf33f042-be8c-4c39-84af-0050d23ec035)
 ---
 title: npm-adduser
 section: 1
